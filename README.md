@@ -4,3 +4,5 @@ This project can be used as a starting point for other similar object detection 
 Training file contains neccessary code to initiate model training. Config file contains parameters and neccessary file paths. Inference module is used to use the model trained previously to infere new files. Outputs folder is not present in the git structure and that must be added before using the code. 
 Trained model, geojson outputs and xlsx files are stored in the outputs folder. 
 
+
+This code is released under CRAPL license.
